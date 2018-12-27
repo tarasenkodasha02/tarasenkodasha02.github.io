@@ -1,0 +1,107 @@
+.block-0 {
+   border: 3px solid pink;
+    color: pink
+}
+
+.block-4 {
+   border: 3px solid pink;
+    color: pink
+}
+
+.block {
+   border: 3px solid pink;
+    color: pink
+}
+
+.block-1 {
+   border: 3px solid pink;
+    color: pink;
+    background: gray;
+}
+
+.block-2 {
+	   border: 3px solid pink;
+    color: pink;background: gray;
+}
+
+.block-3 {
+	   border: 3px solid pink;
+    color: pink;background: gray;
+}
+
+
+table,
+td,
+th {
+    border: 1px solid #000
+}
+
+div {
+    margin: 5px;
+    padding: 5px
+}
+
+.block {
+    overflow: hidden;
+    background: #ff0;
+    border: 3px solid pink
+}
+
+.block-4
+ {
+    background: #00f
+}
+
+.block-0 {
+	background: #00f
+}
+
+.block-4 {
+    clear: both;
+    margin: 20px 0 0
+}
+
+.block-0 {
+    padding: 10px;
+    width: 99%
+}
+
+.block-3 {
+    width: 25%;
+    margin-right: 0
+}
+
+ul {
+    padding: 0
+}
+
+a {
+    color: #00f !important
+}
+
+.block-2 {
+    width: 60%
+}
+
+.block-1 {
+    width: 13%;
+    margin-left: 0
+}
+
+.block-1 {
+float: left;
+}
+
+.block-2 {
+float: left;
+}
+
+.block-3 {
+	float: left;
+}
+
+
+
+* {
+    box-sizing: border-box
+}
